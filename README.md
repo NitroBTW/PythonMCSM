@@ -9,7 +9,7 @@
 
 ### Installation
 
-Download the script and run using CMD using the command `python3 PythonMCSM.py`
+Download the script and run using CMD using the command `python3 Server-Maker.py`
 
 ### Requirements
 The only requirement for this script is [Python 3](https://www.python.org/downloads/ "Python 3") 
